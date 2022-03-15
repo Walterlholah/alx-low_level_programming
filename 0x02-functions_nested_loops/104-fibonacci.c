@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - print first 50 fibonacci
+ *main - print first 98 fibonacci
  *
  *Return: 0 always.
  */
